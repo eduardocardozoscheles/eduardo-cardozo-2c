@@ -1,0 +1,35 @@
+body {background-color: black;}
+
+h1{color: white;}
+h1{font-size: 340%}
+h1{text-align: center;}
+h1{border: solid 3PX rgba ()247, 247, 6, 0.884;}
+
+h2 {font-size: 150%}
+h2 {color: white;}
+h2{text-align: center;}
+h2{word-spacing: 30%;}
+
+#tigre {margin-right: 30%;}
+#tigre {width: 40%;}
+#tigre {size: -1000; }
+#tigre {border-color: yellow;}
+
+#TREX {margin-right: 30%;}
+#TREX {width: 40%;}
+#TREX {size: -1000; }
+#TREX {border-color: yellow;}
+
+#ar {margin-right: 30%;}
+#ar {width: 40%;}
+#ar {size: -1000; }
+#ar {border-color: yellow;}
+
+#tigre {margin-left: 29%;}
+#tigre {border: solid white}
+
+#TREX {margin-left: 29%;}
+#TREX {border: solid white}
+
+#ar {margin-left: 29%;}
+#ar {border: solid white}
